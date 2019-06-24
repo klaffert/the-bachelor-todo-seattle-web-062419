@@ -17,3 +17,7 @@ end
 def get_average_age_for_season(data, season)
   # code here
 end
+
+# keys are season numbers
+# values are contestant arrays 
+# within arrays, the contestant has attribute info 
